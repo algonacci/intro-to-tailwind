@@ -1,0 +1,23 @@
+{
+  "name": "intro-to-tailwind",
+  "version": "1.0.0",
+  "description": "I'm learning Tailwind",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/algonacci/intro-to-tailwind.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/algonacci/intro-to-tailwind/issues"
+  },
+  "homepage": "https://github.com/algonacci/intro-to-tailwind#readme",
+  "dependencies": {
+    "tailwind": "^4.0.0"
+  }
+}
